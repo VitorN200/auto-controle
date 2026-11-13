@@ -2,7 +2,7 @@
 
 Sistema web de **controle financeiro pessoal**: cadastro de contas, registro e filtro de transações entre contas e gerenciamento de usuários, com API própria e banco de dados MySQL.
 
-🔗 **Demonstração online:** _(link do Railway a ser adicionado)_
+🔗 **Demonstração online:** _https://auto-controle-production.up.railway.app/_
 
 **Conta de teste:** `admin@auto.controle` / `admin123`
 
